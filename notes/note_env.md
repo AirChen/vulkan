@@ -234,3 +234,7 @@ mkdir -p ~/dev/cpp/{projects,libraries,tests}
 
 
 安装 vulkan https://vulkan-tutorial.com/Development_environment#page_Linux
+
+基本图形管线 https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Introduction
+
+固定设置结构 https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Fixed_functions
