@@ -1,4 +1,4 @@
-CFLAGS = -std=c++17 -O2 -I /home/jack/ws/stb
+CFLAGS = -std=c++17 -O2 -I /home/jack/ws/stb -I /home/jack/ws/tinyobjloader
 LDFLAGS = -lglfw -lvulkan -ldl -lpthread -lX11 -lXxf86vm -lXrandr -lXi
 
 VulkanTest: main.cpp
